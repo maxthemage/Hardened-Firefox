@@ -5,10 +5,10 @@ A custom user.js file based on the Arkenfox/user.js file for firefox hardening. 
 
 ## Setup
 
-`git clone https://github.com/maxthemage/Hardened-Firefox.git
+`git clone https://github.com/maxthemage/Hardened-Firefox.git`
 
-cd Hardened-Firefox
+`cd Hardened-Firefox`
 
-chmod +x setup.sh
+`chmod +x setup.sh`
 
-./setup.sh`
+`./setup.sh`
